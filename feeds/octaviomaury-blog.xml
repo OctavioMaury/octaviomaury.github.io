@@ -15,7 +15,49 @@
 
  Cheers.
 	</description>
-		<pubDate>Wed, June 23 2020</pubDate>
+		<pubDate>June 23 2020</pubDate>
 	</item>
+
+	<item>
+		<title>The Movie Portal is Up!</title
+		<link>https://octaviomaury.com/blog-movieportalup.html</link>
+		<guid>https://octaviomaury.com/blog-movieportalup.html</guid>
+		<description>  The Movie Portal is up. Actually, its been done since last night but I was too tired to write a blog post about it.  I'm gonna be postin animations and stuff as well as whatever I feel like lol. Last night I put up this video where  I run a C script. It's pretty cool.
+
+ In other news, I got a job at a burger place, so hopefully I can start buying cool things like skating gear or a  new computer.
+
+ Thats about it.
+
+		Cheers.
+	</description>
+	<pubDate>May 22 2020</pubDate>
+</item>
+
+
+	<item>
+		<title>Blog Post Archive</title>
+		<link>https://octaviomaury.com/blog-blogpostarchive.html</link>
+		<guid>https://octaviomaury.com/blog-blogpostarchive.html</guid>
+		<description> 
+ I made a brand-new page on the site. Check it out!
+ https://octaviomaury.github.io/blogposts.html
+
+ Very early on in the redesigning of my site, I realized that after a while, the Blog Posts would probably take up  a lot of space on the homepage, and that would probably be a pain in the ass for anyone with slow internet.
+
+ So, making an archive for blog posts has been on my mind for a while now. Turns out it was extraordinarily  easy to do.
+
+ Pretty much everything about making a website is deceptively easy to do.
+
+ So, from now on only 3 blog posts will be shown on the homepage, and if you wanna read older posts, just go  through The Archives
+
+ Another cool thing this new archive allows for is easier sharing, as each post now has it's own url.
+
+ Errrrm that's about it.
+
+ Cheers.
+	</description>
+	<pubDate>May 13 2020</pubDate>
+</item>
+
 </channel>
 </rss>
