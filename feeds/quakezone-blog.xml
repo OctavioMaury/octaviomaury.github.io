@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+
+	<title>QuakeZone.net Blog</title>
+	<link>https://quakezone.net/</link>
+	<description>Your hub for Quake content in the modern age</description>
+
+	<item>
+		<title>QuakeZone is live!</title>
+		<link>https://octaviomaury.com/blog-quakezoneislive.html</link>
+		<guid>https://octaviomaury.com/blog-quakezoneislive.html</link>
+		<description>Quake is cool. 'Nuff said.
+		<br>This site is a bit of a tribute to other sites like Quaddicted, QuakeWorld.net and  Thresh's Quake Bible. I'm gonna be posting daily Quake content, including custom maps, art, and gameplay  tutorials.
+		<br>
+			Stay tuned!
+			<br>
+ Thats about it.
+				<br>
+ Cheers.
+
+			Cheers.
+		<pubDate>July 7 2021</pubDate>
+	</item>
+
+</channel>
+</rss>
